@@ -1,0 +1,14 @@
+{
+  "name": "node-server-products",
+  "version": "0.0.0",
+  "description": "Examples of serving static files with HTTP using Node.js",
+  "scripts": {
+    "test": "./test-all"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "express": "^4.14.0"
+  }
+}
